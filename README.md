@@ -17,3 +17,6 @@
 [codility - How do I set a Passing Score](https://support.codility.com/hc/en-us/articles/360051122493-How-do-I-set-a-Passing-Score-)
 
 [linkedin - codility tests ruthless entirely useless alla babkina/](https://www.linkedin.com/pulse/codility-tests-ruthless-entirely-useless-alla-babkina/)
+
+## Set up
+[VScode - pythontutorial](https://code.visualstudio.com/docs/python/python-tutorial)
