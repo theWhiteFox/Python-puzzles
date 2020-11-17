@@ -1,6 +1,8 @@
 # Python-puzzles
 
 ## Learning
+[python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
 [Udacity - Intro to Programming Nanodegree program!](https://www.udacity.com/course/ud011)
 
 [Udemy - beat the codility coding interview in python](https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/)
@@ -19,4 +21,4 @@
 [linkedin - codility tests ruthless entirely useless alla babkina/](https://www.linkedin.com/pulse/codility-tests-ruthless-entirely-useless-alla-babkina/)
 
 ## Set up
-[VScode - pythontutorial](https://code.visualstudio.com/docs/python/python-tutorial)
+[VScode - python tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
