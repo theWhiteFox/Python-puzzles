@@ -25,3 +25,4 @@
 ## Set up
 [VScode - python tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
 [python.org pep 0008 package & module names](https://www.python.org/dev/peps/pep-0008/#package-and-module-names)
+[VScode - jupyter support](https://code.visualstudio.com/docs/python/jupyter-support)
