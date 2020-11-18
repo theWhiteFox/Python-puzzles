@@ -1,3 +1,5 @@
+# print the string I am super excited for this course! 
+# 5 times with a space after each iteration
 class Quiz:
     def show_excitement():
         i = 0
