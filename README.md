@@ -3,6 +3,8 @@
 ## Learning
 [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 
+[udacity data structures and algorithms - python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
 [Udacity - Intro to Programming Nanodegree program!](https://www.udacity.com/course/ud011)
 
 [Udemy - beat the codility coding interview in python](https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/)
