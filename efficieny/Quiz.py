@@ -27,7 +27,11 @@ class Quiz:
                     oldest_manatee = manatee1['name']
         print oldest_manatee
     
+    # O(n)
     example1(manatees)
+    # O(1)
     example2(manatees)
+    # O(n*m)
     example3(manatees)
+    # O(n^2)
     example4(manatees)
