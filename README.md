@@ -15,6 +15,8 @@
 
 [geeksforgeeks](https://www.geeksforgeeks.org)
 
+[http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
+
 ## Info
 [reddit how_to_crack_codility_test_with_a_week_preparation](https://www.reddit.com/r/cscareerquestions/comments/cxja6r/how_to_crack_codility_test_with_a_week_preparation/)
 
