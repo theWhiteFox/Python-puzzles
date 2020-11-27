@@ -4,6 +4,7 @@ class Quiz:
         {'name': 'Gary', 'age': 17},
         {'name': 'Terry', 'age': 84}
         ]
+    
     def example1(manatees):
         for manatee in manatees:
             print (manatee['name'])
