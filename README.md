@@ -18,6 +18,8 @@
 [http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html](http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html)
 
 ## Info
+[https://wiki.python.org/moin/TimeComplexity](https://wiki.python.org/moin/TimeComplexity)
+
 [reddit how_to_crack_codility_test_with_a_week_preparation](https://www.reddit.com/r/cscareerquestions/comments/cxja6r/how_to_crack_codility_test_with_a_week_preparation/)
 
 [codility - How do I set a Passing Score](https://support.codility.com/hc/en-us/articles/360051122493-How-do-I-set-a-Passing-Score-)
