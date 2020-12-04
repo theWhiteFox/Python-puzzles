@@ -1,5 +1,4 @@
-"""The LinkedList code from before is provided below. 
-Add three functions to the LinkedList.
+"""Add three functions to the LinkedList.
 "get_position" returns the element at a certain position 
 """
 
